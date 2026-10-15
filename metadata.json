@@ -1,0 +1,6 @@
+{
+  "name": "BMW X5 E53 Hybrid Genset OS",
+  "description": "Platform infrastruktur cerdas konversi hybrid BMW X5 2002 dengan genset cerdas, telemetri IoT real-time, pelaporan emisi, sistem keamanan, dan manajemen energi AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
